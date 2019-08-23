@@ -1,0 +1,2 @@
+# To view the structure of a docker image.
+docker run -it image_name sh
