@@ -1,2 +1,5 @@
 # See system information
 inxi -Fxz
+
+# To check boot-up performance
+systemd-analyze blame
